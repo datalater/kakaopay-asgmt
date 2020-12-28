@@ -2,6 +2,9 @@
 
 Launch a mobile app. from a webpage
 
+```python
+print('hello world')
+```
 
 ```javascript
 daumtools.web2app({
